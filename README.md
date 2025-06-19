@@ -5,6 +5,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RjZude45OC&show_icons=true&locale=en&layout=compact&bg_color=141414&title_color=FF9B00&icon_color=FF9B00&text_color=FF9B00&hide_border=true" alt="RjZude45OC" /></p>
 
-<b>Visitor count</b><br>
+<b>Visitor count</b><br><br>
   <img src="https://profile-counter.glitch.me/RjZude45OC/count.svg" />
 
